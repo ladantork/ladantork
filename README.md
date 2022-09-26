@@ -18,4 +18,11 @@ hobbies: ["Painting", "Travelling", "Learning"],
 **ladantork/ladantork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
+Technologies
+Frontend
+     
+Backend
+       
+Other softwares
+   
 
