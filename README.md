@@ -1,16 +1,19 @@
 ### Hi there 👋
-
+ aboutMe.js
 <!--
 **ladantork/ladantork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+let me = {
+  name: "Ladan Torkzaban",
+  country: "United Kingdom",
+  Job:"Full-Stack Developer",
+  
 
-Here are some ideas to get you started:
+  url: "in-progress",
+  languages: ["English", "Persian"],
+  codingLanguages: ["Ruby", "JavaScript"],
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  learningNewSkills: true,
+  hobbies: ["Painting", "Travelling", "Learning"],
+};
 -->
+
