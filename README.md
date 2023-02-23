@@ -10,8 +10,9 @@ Job:"Full-Stack Developer",
   
 
 url: "in-progress",
-languages: ["English", "Persian"],
-codingLanguages: ["Ruby"<img align="center" alt="Tay-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">,"JavaScript"<img align="center" alt="Tay-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">,"React"<img align="center" alt ="Tay-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">,"HTML5"<img align="center" alt="Tay-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">,"Css3"<img align="center" alt="Tay-CSS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">]
+languages:["English", "Persian"],
+url: "in-progress",
+codingLanguages:["Ruby"<img align="center" alt="Tay-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">,"JavaScript"<img align="center" alt="Tay-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">,"React"<img align="center" alt ="Tay-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">,"HTML5"<img align="center" alt="Tay-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">,"Css3"<img align="center" alt="Tay-CSS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">]
 
 learningNewSkills: true,
 hobbies: ["Painting",  "Cooking", "Travelling", "Learning"],
