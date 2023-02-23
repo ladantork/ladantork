@@ -1,4 +1,5 @@
-### Hi there 👋
+<div align="center">
+ ### Hi there 👋
  aboutMe.js
 ### 
 let me = {
@@ -19,6 +20,7 @@ hobbies: ["Painting", "Travelling", "Learning"],
 **ladantork/ladantork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
+ <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=your-github-ladantork&color=dc143c)
 
