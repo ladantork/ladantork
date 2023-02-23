@@ -14,6 +14,7 @@ codingLanguages: ["Ruby", "JavaScript"],
 learningNewSkills: true,
 hobbies: ["Painting", "Travelling", "Learning"],
  };
+                                          ![Visitor Count](https://profile-counter.glitch.me/{ladantork}/count.svg)
 <!--
 **ladantork/ladantork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
