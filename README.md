@@ -34,6 +34,7 @@ hobbies: ["Painting", "Cooking", "Travelling", "Learning"],
   </a>
   
   </div>
+ <br>
  
  <div align="center">
   
