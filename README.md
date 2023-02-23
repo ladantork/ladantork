@@ -33,6 +33,7 @@ hobbies: ["Painting", "Cooking", "Travelling", "Learning"],
    </div>
  
  <div align="center">
+  
   <a href="http://www.github.com/ladan">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ladantork&show_icons=true&theme=dracula&include_all_commits=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladantork&layout=compact&theme=dracula&langs_count=7"/>
