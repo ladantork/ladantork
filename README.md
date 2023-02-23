@@ -20,4 +20,5 @@ hobbies: ["Painting", "Travelling", "Learning"],
 -->
 
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white) 
+![<LINKEDIN>](https://img.shields.io/badge/LINKEDIN-#0A66C2?style=for-the-badge&logo=LINKEDIN&logoColor=white)
