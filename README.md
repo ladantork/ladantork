@@ -3,6 +3,7 @@
  aboutMe.js
  <div align="center">
 
+😄 Pronouns: she/her/hers<br>
 let me = {
 name: "Ladan Torkzaban",
 country: "United Kingdom",
