@@ -22,6 +22,7 @@ hobbies: ["Painting", "Cooking", "Travelling", "Learning"],
 
 -->
 <table>
+ <img align="center" alt="Tay-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
  <div align="center">
   <a href="http://www.github.com/ladan">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ladantork&show_icons=true&theme=dracula&include_all_commits=true"/>
