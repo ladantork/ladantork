@@ -19,7 +19,7 @@ hobbies: ["Painting", "Travelling", "Learning"],
 **ladantork/ladantork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-![Visitor Count](https://profile-counter.glitch.me/{ladantork}/count.svg)
+
 ![](https://komarev.com/ghpvc/?username=your-github-ladantork&color=dc143c)
 
 
