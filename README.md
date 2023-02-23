@@ -1,7 +1,8 @@
 <div align="center">
- ### Hi there 👋
+ Hi there 👋
  aboutMe.js
-### 
+ <div align="center">
+
 let me = {
 name: "Ladan Torkzaban",
 country: "United Kingdom",
