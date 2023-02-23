@@ -33,4 +33,5 @@ hobbies: ["Painting",  "Cooking", "Travelling", "Learning"],
 
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ladantork ) [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ladan-torkzaban-97867259/)
+  <a href="https://www.codewars.com/users/ladantork" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
 
