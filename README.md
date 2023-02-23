@@ -44,6 +44,7 @@ hobbies: ["Painting", "Cooking", "Travelling", "Learning"],
   </a>
 
 </div>
+ <br>
  <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=your-github-ladantork&color=dc143c)
