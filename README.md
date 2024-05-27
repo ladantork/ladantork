@@ -5,12 +5,12 @@
 let me = {
 name: "Ladan Torkzaban",
 country: "United Kingdom",
-Job:"Full-Stack Developer",
+Job:"Software Developer",
   
 
 url: "in-progress",
 languages:["English", "Persian"],
-codingLanguages:["Ruby", "JavaScript", "React", "HTML5", "Css3"]
+codingLanguages:["Ruby", "JavaScript","Node", "React", "Angular", "HTML5", "Css"]
 
 learningNewSkills: true,
 hobbies: ["Painting", "Cooking", "Travelling", "Learning"],
