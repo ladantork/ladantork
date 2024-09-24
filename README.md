@@ -44,6 +44,11 @@ hobbies: ["Painting", "Cooking", "Travelling", "Learning"],
   </a>
 
 </div>
+<div>
+ # 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?username=ladantork&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ladantork&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
  <br>
  <div align="center">
 
