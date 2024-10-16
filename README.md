@@ -10,7 +10,7 @@ Job:"Software Developer",
 
 url: "in-progress",
 languages:["English", "Persian"],
-codingLanguages:["Ruby", "Python", "JavaScript","Node", "React", "Angular", "HTML5", "Css"]
+codingLanguages:["Ruby", "Python", "JavaScript","Node", "React", "Angular", "HTML5", "Css"],
 
 learningNewSkills: true,
 hobbies: ["Painting", "Cooking", "Travelling", "Learning"],
